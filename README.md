@@ -1,6 +1,6 @@
 # hanami.run tech blog
 
-This is the source of https://hanami.run/blog
+This is the source for https://hanami.run/blog
 
 # Development
 
